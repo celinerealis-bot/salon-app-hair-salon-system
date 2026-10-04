@@ -1,0 +1,13 @@
+[
+    {
+        "customer": "maria dela cruz",
+        "contact": "09123456789",
+        "date": "09/27/2026",
+        "time": "10:00 AM",
+        "service": "Rebond",
+        "staff": "Maria Santos",
+        "price": 1499,
+        "created": "2026-09-26 21:57:13",
+        "status": "Booked"
+    }
+]
